@@ -16,13 +16,13 @@ body {
 }
 
 .icons {
-    font-size: 2em;
+    font-size: 4em;
 }
 
 .traffic-light {
     color: white;
-    width: 20px;
-    height: 20px;
+    width: 40px;
+    height: 40px;
     border-radius: 50%;
     display: inline-block;
     box-shadow: inset 0 0 7px #1c1c1cc3;
@@ -30,7 +30,7 @@ body {
 
 #time-left {
     color: white !important;
-    font-size: 1em;
+    font-size: 2em;
 }
 
 .green {
